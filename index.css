@@ -22,7 +22,7 @@ h3 {
   z-index: 5;
   left:90px;
   top:70vh;
-  font-size: 50px;
+  font-size: 20px;
   line-height: 60%;
 }
 h4 {
@@ -33,6 +33,15 @@ h4 {
   top:80vh;
   font-size: 30px;
   line-height: 60%;
+}
+h5 {
+  font-family: "JetBrains Mono",monospace;
+  position: absolute;
+  z-index: 5;
+  top:5vw;
+  left:5vw;
+  font-size: 20px;
+  line-height: 100%;
 }
 div {
   position: absolute;
